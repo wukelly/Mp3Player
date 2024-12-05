@@ -1,0 +1,22 @@
+#pageContent {
+    padding: 10px 30px;
+    background-color: pink;
+    margin-bottom: 15em;
+}
+
+#player {
+    padding: 10px 30px;
+    background-color: lightblue;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+}
+
+.album {
+    padding: 10px 30px;
+    border: 1px solid;
+}
+
+.song {
+    display: flex;
+}
