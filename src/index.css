@@ -1,12 +1,12 @@
 #pageContent {
     padding: 10px 30px;
-    background-color: pink;
+    background-color: lightblue;
     margin-bottom: 15em;
 }
 
 #player {
     padding: 10px 30px;
-    background-color: lightblue;
+    background-color: mediumseagreen;
     position: fixed;
     bottom: 0px;
     width: 100%;
