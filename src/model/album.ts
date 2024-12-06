@@ -1,4 +1,4 @@
-class Album implements SongList {
+class Album {
   // Attributes associated with an Album
   public albumName: string;
   public artist: string;
